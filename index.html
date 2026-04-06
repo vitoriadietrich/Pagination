@@ -1,0 +1,18 @@
+<link rel="stylesheet" href="style.css">
+<div class="pagination-container">
+    <ul class="pagination" id="pagination">
+        <li class="btn prev-all" onclick="goToPage(1)">&laquo;</li>
+        <li class="btn prev" onclick="changePage(-1)">&lsaquo;</li>
+        
+        <li class="page-number active" onclick="setPage(1)">1</li>
+        <li class="page-number" onclick="setPage(2)">2</li>
+        <li class="page-number" onclick="setPage(3)">3</li>
+        <li class="page-number" onclick="setPage(4)">4</li>
+        <li class="page-number" onclick="setPage(5)">5</li>
+        
+        <li class="btn next" onclick="changePage(1)">&rsaquo;</li>
+        <li class="btn next-all" onclick="goToPage(5)">&raquo;</li>
+    </ul>
+</div>
+
+<script src="script.js"></script>
