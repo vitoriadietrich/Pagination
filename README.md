@@ -2,23 +2,23 @@
 
 Um projeto simples de **paginação (pagination)** usando HTML, CSS e JavaScript.
 
-## ✨ Sobre
+## Sobre
 
 Este projeto demonstra como criar um sistema de **paginação interativa**, ideal para dividir conteúdos em várias páginas.
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 - HTML
 - CSS
 - JavaScript
 
-## 🎯 Funcionalidades
+## Funcionalidades
 
 - Navegação entre páginas
 - Botões de próxima e anterior
 - Layout simples e responsivo
 
-## 🚀 Como usar
+## Como usar
 
 1. Baixe ou clone o repositório  
 2. Abra o arquivo `index.html` no navegador  
